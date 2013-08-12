@@ -1,0 +1,1 @@
+BAAN_QUERY=YAML.load_file(Rails.root.join("config/Meiser120.yml"))
